@@ -1,4 +1,4 @@
 BMPAssistant
 ============
 
-Some helpful bmp api.
+Some helpful bmp apis.
